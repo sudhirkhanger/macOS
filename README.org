@@ -1,0 +1,6 @@
+# macOS
+
+.zprofile is equivalent to .bash_profile and runs at login, including over SSH
+.zshrc is equivalent to .bashrc and runs for each new Terminal session
+
+https://support.apple.com/en-us/HT208050
